@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">2019MadFinalA</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="admin">ADMIN PANEL</string>
+    <string name="movie_Name">Movie Name</string>
+    <string name="movie_Year">Movie Year</string>
+    <string name="Add">Add</string>
+    <string name="movie_list">Movie LIst</string>
+    <string name="rate">Rate</string>
+    <string name="comments">comments</string>
+    <string name="submit">Submit</string>
+    <string name="current_rating">current rating</string>
+</resources>
